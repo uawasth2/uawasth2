@@ -1,9 +1,8 @@
 ### Hi there 👋
+I am a Senior at UIUC studying Computer Science!
 
 <!--
 **uawasth2/uawasth2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am a Senior at UIUC studying Computer Science!
 
 Here are some ideas to get you started:
 
